@@ -39,7 +39,7 @@
 // #define NUMBATCHES 20
 // #define BATCHBUFFERELEM 100000000 //THE SMALLER SIZE ALLOCATED ON THE DEVICE FOR EACH KERNEL EXECUTION
 
-#define GPUSTREAMS 3 //number of concurrent gpu streams
+#define GPUSTREAMS 3 //number of concurrent gpu streams 
 
 using namespace std;
 
